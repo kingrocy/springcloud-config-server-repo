@@ -1,4 +1,4 @@
-environment: dev777
+environment: dev888
 
 eureka:
     instance:

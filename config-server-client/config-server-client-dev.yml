@@ -1,4 +1,4 @@
-environment: dev5
+environment: dev6
 
 eureka:
     instance:

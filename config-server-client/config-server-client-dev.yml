@@ -1,9 +1,1 @@
 environment: dev999
-
-eureka:
-    instance:
-        ip-address: 127.0.0.1
-        prefer-ip-address: true
-    client:
-        serviceUrl:
-            defaultZone: http://127.0.0.1:8090/eureka/
